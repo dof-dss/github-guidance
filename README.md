@@ -5,6 +5,10 @@ Digital Development uses GitHub as its publically accessible code repository.
 ## User accounts
 You can use your personal GitHub account to access dof-dss or create a specific account for business use. Ask your GitHub administrator to invite you.
 
+### Personal information
+
+You should be careful and limit the amount of personal information you add to your profile. There is no need to provide personal details at all beyond your email address.
+
 ### Account security
 
 To secure your GitHub respository make sure you configure two-factor authentication for your account.
